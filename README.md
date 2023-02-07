@@ -11,5 +11,5 @@ Looking at infection rates, death rates, vaccination rates in different countrie
 Cleaning of Nashville housing data using SQL
 
 # movie_analysis
-Exploratory data analysis of movie releases data
+Exploratory data analysis of movie releases data.
 In particular examining the largest contibutors to gross revenue
